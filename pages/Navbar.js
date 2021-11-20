@@ -1,6 +1,5 @@
 import Router from 'next/router'
-
-export const Navbar = (props) => {
+export default function Navbar(props) {
   return (
     <>
       <nav className='okayNav'>
