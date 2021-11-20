@@ -1,7 +1,9 @@
+import HeadComponent from '../components/HeadComponent'
 import Navbar from '../components/Navbar'
 export default function Section16() {
   return (
     <>
+      <HeadComponent title='بني المصطلق والمنافقون' />
       <Navbar title='بني المصطلق والمنافقون' />
       <main className='container mainContents'>
         <section className='sectionContents'>

@@ -1,6 +1,5 @@
-import Head from 'next/head'
-
 import Link from 'next/link'
+import HeadComponent from '../components/HeadComponent'
 
 const SectionsList = (props) => {
   const section = props.sections.map((section) => (
@@ -50,18 +49,8 @@ const sections = [
 export default function Home() {
   return (
     <>
-      <Head>
-        <title>السيرة النبوية</title>
-        <link rel='icon' href='/favicon.ico' />
-        <link rel='apple-touch-icon' href='/favicon.ico' />
-        <meta charset='utf-8' />
-        <meta name='viewport' content='width=device-width, initial-scale=1' />
-        <meta name='theme-color' content='#663f73' />
-        <meta name='description' content='السيرة النبوية للدكتور على الصلابى' />
-        <meta name='robots' content='index,follow' />
-        <meta name='googlebot' content='index,follow' />
-      </Head>
-
+      <HeadComponent title=' السيرة النبوية' />
+      
       <div className='bodyColorMain'>
         <p className='text-center barnd-name'>السيــــــرة الـنـبـويـة</p>
         <p className='text-center barnd-name2'>قــصــص وعِــبَــر</p>

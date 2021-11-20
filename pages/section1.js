@@ -1,8 +1,11 @@
+import HeadComponent from '../components/HeadComponent'
 import Navbar from '../components/Navbar'
+
 export default function Section1() {
   return (
     <>
-      <Navbar title=' الوحي' />
+      <HeadComponent title=' المصطفى صلى الله عليه وسلم' />
+      <Navbar title=' المصطفى صلى الله عليه وسلم' />
       <div>
         <main className='container mainContents'>
           <section className='sectionContents'>
