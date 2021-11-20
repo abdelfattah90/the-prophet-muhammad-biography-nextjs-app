@@ -1,0 +1,725 @@
+@font-face {
+    src: url(../fonts/Droid.ttf);
+    font-family: Droid;
+}
+
+@font-face {
+    src: url(../fonts/FFHekaya-Light.otf);
+    font-family: FFHekaya;
+}
+
+@font-face {
+    src: url(../fonts/Questv1-Regular.otf);
+    font-family: questv1;
+}
+
+@font-face {
+    src: url(../fonts/Swissra-Normal.otf);
+    font-family: swissraNor;
+}
+
+/**
+$MainColor: StatusBar- Navbar- IndexBackground- SequenceNumbers - progresBarHeaderBack -
+            ProgressBarBackground - enoughTimeAzkar - accordionDua - AzkarButton.
+$lightBackground: Background Color of Seira - companios - Morning Azkar . **/
+
+$mainColor: #663f73;
+$lightBackground: #e6e6e6;
+
+$marningBtn:#2691d9;/*-2691d9*/
+$eveningBtn:#a67126;
+
+$progressbar:#2691d9;/*-7b868a*/
+
+$whiteColor: #ffffff;
+$blackColor: #000000;
+
+
+body {
+    background-color: $lightBackground;
+    direction: ltr;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Droid;
+    font-size: 16px;
+}
+
+.bodyColorMain{
+  background-color: $mainColor;
+}
+
+a:hover,
+a {
+    list-style: none;
+    text-decoration: none;
+}
+
+
+/* progress bar ***************** */
+.header-bar {
+    background-color: $mainColor;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    float: right;
+    z-index: 99999;
+}
+.progress-container {
+    background-color: $mainColor;
+    width: 100%;
+    height: 3px;
+    float: right;
+}
+
+.barMain {
+    width: 0%;
+    height: 3px;
+    float: right;
+}
+
+.progress-bar {
+    @extend .barMain;
+    background-color: $progressbar;
+
+}
+.progress-barMorning {
+    @extend .barMain;
+    background-color: $marningBtn;
+
+}
+.progress-barEvening {
+    @extend .barMain;
+    background-color: $eveningBtn;
+
+}
+
+
+
+/* Seira Index ************** */
+
+.space{
+  padding: 5px 0;
+  width: 100%
+}
+.barnd-name {
+    color: $whiteColor;
+    font-family: FFHekaya;
+    font-size: 45px;
+    user-select: none;
+}
+
+.barnd-name2 {
+    color: $whiteColor;
+    font-family: swissraNor;
+    font-size: 16px;
+    margin-top: -20px;
+    user-select: none;
+}
+
+.barnd-slogan {
+    color: $whiteColor;
+    font-family: swissraNor;
+    font-size: 14px;
+    margin-top: -10px;
+    user-select: none;
+    text-shadow:  #3a2442 1px 1px;
+}
+
+.iconeHome {
+    position: absolute;
+    left: 10px;
+    color: $whiteColor;
+    font-size: 25px
+}
+
+.sectionIndex {
+    background-color: $whiteColor;
+    position: relative;
+    width: 93%;
+    border-radius: 5px;
+    font-family: swissraNor;
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.sIndexMarg{
+  margin-bottom: -10px;
+}
+.sectionColor , .sectionColor:hover{
+    color: $blackColor;
+}
+
+.titlesCol {
+    background-color: hsl(0, 0%, 98%);
+    padding: 5px;
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 1px;
+    margin-top: 1px;
+    direction: rtl;
+    user-select: none;
+}
+@media screen and (max-width: 335px) {
+.titlesCol{
+  font-size: 12px;
+}
+}
+.titlesNum{
+  background-color: $mainColor;
+  color: $whiteColor;
+  border-radius: 3px;
+  padding: 5px;
+  margin-left: 15px;
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+.titlesNum2{
+  background-color: $mainColor;
+  color: $whiteColor;
+  border-radius: 3px;
+  padding: 3px;
+  margin-left: 10px;
+  margin-right: -2px;
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+.titlePart {
+    color: $blackColor;
+}
+
+.symbolMenu {
+    font-size: 10px;
+}
+
+.info {
+    padding-top: 15px;
+    color: $whiteColor;
+    text-align: left;
+}
+
+.info a{
+  color: $whiteColor;
+}
+.sectionAbout{
+  background-color: $whiteColor;
+  height: auto;
+  padding: 5px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  border-radius: 10px;
+  direction: rtl;
+  text-align: right;
+  word-wrap: break-word;
+  line-height: 1.4;
+  font-family: Droid;
+  font-size: 12px;
+}
+.onpresstext{
+  background-color: #80bdff;
+}
+.refapp{
+  text-align: center;
+}
+.sectionAbout img {
+  width: 80%;
+  height: 80%;
+;
+}
+/* Pages **********************************************************/
+
+.mainContents {
+    padding-right: 7px;
+    padding-left: 7px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 60px
+}
+
+.sectionContents {
+    background-color: $whiteColor;
+    height: auto;
+    padding: 5px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+.sectionContents p {
+    direction: rtl;
+    text-align: justify;
+    word-wrap: break-word;
+    line-height: 1.7;
+    font-family: Droid;
+}
+
+#more1, #more2, #more3, #more4, #more5, #more6, #more7,
+#more8, #more9, #more10, #more11, #more12, #more13, #more14, #more15, #more16, #more17, #more18
+{
+  display: none;
+}
+
+#dots1, #dots2, #dots3, #dots4, #dots5, #dots6, #dots7,
+#dots8, #dots9, #dots10, #dots11, #dots12, #dots13, #dots14, #dots15, #dots16, #dots17, #dots18
+
+{
+  color: #3366cc;
+  font-weight:bold;
+}
+
+.titleLink{
+  color: #3366cc;
+  text-align: right;
+  font-size: 16px;
+  font-family: questv1;
+  text-align: right;
+  word-wrap:normal;
+  line-height: 1;
+}
+
+/* Tilte Color ****************** */
+
+.tilteC1 {
+    color: #68499c;
+    font-family: swissraNor;
+    font-weight: bold;
+}
+
+.tilteC2 {
+    color: #886677;
+    font-family: swissraNor;
+    font-weight: bold;
+}
+
+.tilteC3 {
+    color: #e6b800;
+    font-family: swissraNor;
+    font-weight: bold;
+}
+
+.poetry {
+    font-style: italic;
+}
+
+
+/*Thwab **************************** */
+
+
+/*Thwab Index ***************** */
+
+.icon-img {
+    position: absolute;
+    left: 8px;
+    right: 0;
+    top: 8px;
+}
+.icon-img2 {
+    position: absolute;
+    left: 4px;
+    right: 0;
+    top: 5px;
+}
+
+.postionZakr {
+    position: relative;
+    margin-left: 7px;
+    max-width: 47%;
+}
+.even-morn{
+     width: 96%;
+}
+.titleName {
+    padding: 15px 0;
+    margin-right: -5px;
+    color: $blackColor;
+    user-select: none;
+}
+.titleName2 {
+  margin: 15px -8px 15px 0;
+  color: $blackColor;
+  font-size: 14px;
+  user-select: none;
+}
+
+.titleSeira {
+    text-align: center;
+    padding: 15px 0;
+    color: $blackColor;
+}
+
+/*Thwab page ***************** */
+
+.enoughTimeMorning {
+    color: $blackColor;
+    font-family: questv1;
+    font-size: 14px;
+    padding-top: 10px;
+    text-align: left;
+}
+
+.enoughTimeEvening {
+  color: $whiteColor;
+  font-family: questv1;
+  font-size: 14px;
+  padding-top: 10px;
+  text-align: left;
+}
+
+.mainZaker {
+    padding-right: 7px;
+    padding-left: 7px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.sectionZaker {
+    height: auto;
+    border-radius: 10px;
+    direction: rtl;
+    text-align: justify;
+    word-wrap: break-word;
+    line-height: 1.9;
+}
+
+.frameMain{
+  height: auto;
+  margin-bottom: 20px;
+  border-radius: 5px ;
+  border-radius: 5px ;
+  background-color: $whiteColor;
+}
+.frame-zaker {
+    @extend .frameMain;
+    padding: 7px 7px 3px 7px;
+}
+.frameZakerMorning {
+    @extend .frameMain;
+    position: relative;
+    padding: 7px 7px 15px 7px;
+    box-shadow: #d9d9d9 1px 1px;
+}
+.frameZakerEvening {
+    @extend .frameMain;
+    position: relative;
+    padding: 7px 7px 15px 7px;
+    box-shadow: #492d52 1px 1px;
+    background-color: #f5f5f5;
+}
+
+.opacAct:active {
+  opacity: .9
+}
+
+
+.sahabiyat {
+    text-align: center;
+    color: $whiteColor;
+}
+
+.companions {
+    border-radius: 10px;
+    direction: rtl;
+    background-color: $whiteColor;
+    color: $blackColor;
+    max-width: 48%;
+    margin-right: 2px;
+    margin-left: 2px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-bottom: 15px;
+}
+
+@media screen and (max-width: 375px) {
+    .companions {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 335px) {
+    .companions {
+        font-size: 12px;
+    }
+}
+
+.ten-companions {
+    color: #2eb82e;
+}
+
+.peace {
+    color: #606885;
+}
+
+.gain {
+    color: #606885;
+}
+
+
+/* dua page  ******************************** */
+
+.accordion {
+    background-color: $mainColor;
+    color: $whiteColor;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 18px;
+    width: 100%;
+    border: none;
+    text-align: right;
+    outline: none;
+    transition: 0.4s;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.accordionActive {
+    opacity: .8;
+    background-color: $mainColor;
+}
+
+.panel {
+    padding: 0 18px;
+    background-color: $whiteColor;
+    max-height: 0;
+    overflow: hidden;
+    text-align: justify;
+    line-height: 1.9;
+    position: relative;
+}
+
+
+/* btns *************************** */
+
+button:focus {outline:0;}
+
+
+.bntZakr{
+  background-color: $mainColor;
+  color: $whiteColor;
+  font-family: questv1;
+  border-radius: 3px;
+  box-shadow: none;
+  border: none;
+  width: 49%;
+}
+
+.bntZakr2{
+  background-color: $mainColor;
+  color: $whiteColor;
+  font-family: questv1;
+  border-radius: 3px;
+  box-shadow: none;
+  border: none;
+  width: 49%;
+  float: left;
+  height: 100%
+}
+
+.bntMorning {
+    position: absolute;
+    left: 5px;
+    bottom: 5px;
+    width: 20%;
+    background-color: $marningBtn;
+    color:$whiteColor;
+    font-family: questv1;
+    border-radius: 3px;
+    box-shadow: none;
+    border: none;
+    font-size: 12px;
+}
+
+.bntEvening {
+    position: absolute;
+    left: 5px;
+    bottom: 5px;
+    width: 20%;
+    background-color: $eveningBtn;
+    color:$whiteColor;
+    font-family: questv1;
+    border-radius: 3px;
+    box-shadow: none;
+    border: none;
+    font-size: 12px;
+}
+
+/* Quiz *************/
+
+/*bnt*/
+.mainQbtn{
+  color: $whiteColor;
+  font-family: questv1;
+  border-radius: 3px;
+  box-shadow: none;
+  border: none;
+  width: 50%;
+}
+.bntQuiz{
+  @extend .mainQbtn;
+  background-color: $mainColor;
+}
+.bntResult{
+  @extend .mainQbtn;
+  background-color: $mainColor;
+}
+
+.bntNewQuiz{
+  @extend .mainQbtn;
+  background-color: $mainColor;
+}
+
+/*quiz*/
+.questionNum{
+  background-color: $mainColor;
+  border-radius: 5px;
+  padding: 3px;
+  margin-left: 0;
+  margin-right: 0;
+  font-family: sans-serif;
+  color: $whiteColor;
+}
+
+.question {
+    direction: rtl;
+    text-align: right
+}
+
+.question p {
+    display: inline;
+    padding-bottom:  10px;
+}
+.radio{
+  padding-top: 10px;
+}
+
+form label{
+  width: 88%;
+  text-align: right;
+  display: inline-block;
+}
+
+/* End Main Style *********/
+
+
+/* w3-animate ************/
+
+.w3-spin {
+    animation: w3-spin 2s infinite linear
+}
+
+@keyframes w3-spin {
+    0% {
+        transform: rotate(0deg)
+    }
+    100% {
+        transform: rotate(359deg)
+    }
+}
+
+.w3-animate-fading {
+    animation: fading 5s infinite
+}
+
+@keyframes fading {
+    0% {
+        opacity: 0
+    }
+    50% {
+        opacity: 1
+    }
+    100% {
+        opacity: 0
+    }
+}
+
+.w3-animate-opacity {
+    animation: opac 2.5s
+}
+
+@keyframes opac {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+.w3-animate-top {
+    position: relative;
+    animation: animatetop 0.4s
+}
+
+@keyframes animatetop {
+    from {
+        top: -300px;
+        opacity: 0
+    }
+    to {
+        top: 0;
+        opacity: 1
+    }
+}
+
+.w3-animate-left {
+    position: relative;
+    animation: animateleft 0.4s
+}
+
+@keyframes animateleft {
+    from {
+        left: -300px;
+        opacity: 0
+    }
+    to {
+        left: 0;
+        opacity: 1
+    }
+}
+
+.w3-animate-right {
+    position: relative;
+    animation: animateright 0.4s
+}
+
+@keyframes animateright {
+    from {
+        right: -300px;
+        opacity: 0
+    }
+    to {
+        right: 0;
+        opacity: 1
+    }
+}
+
+.w3-animate-bottom {
+    position: relative;
+    animation: animatebottom 0.4s
+}
+
+@keyframes animatebottom {
+    from {
+        bottom: -300px;
+        opacity: 0
+    }
+    to {
+        bottom: 0;
+        opacity: 1
+    }
+}
+
+.w3-animate-zoom {
+    animation: animatezoom 0.6s
+}
+
+@keyframes animatezoom {
+    from {
+        transform: scale(0)
+    }
+    to {
+        transform: scale(1)
+    }
+}
