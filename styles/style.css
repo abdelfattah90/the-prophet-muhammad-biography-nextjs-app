@@ -29,7 +29,7 @@ body {
 }
 
 .bodyColorMain {
-  background-color: #537bc4;
+  background-color: #a99260;
 }
 
 a:hover,
@@ -122,7 +122,7 @@ a {
 }
 
 .titlesNum {
-  background-color: #537bc4;
+  background-color: #a99260;
   color: #ffffff;
   border-radius: 3px;
   padding: 5px;
@@ -132,7 +132,7 @@ a {
 }
 
 .titlesNum2 {
-  background-color: #537bc4;
+  background-color: #a99260;
   color: #ffffff;
   border-radius: 3px;
   padding: 3px;
@@ -200,7 +200,7 @@ a {
 }
 
 .okayNav {
-  background-color: #537bc4;
+  background-color: #a99260;
   position: fixed;
   width: 100%;
   top: 0;

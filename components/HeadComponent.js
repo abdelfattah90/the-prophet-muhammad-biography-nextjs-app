@@ -8,7 +8,7 @@ export default function HeadComponent(props) {
       <link rel='apple-touch-icon' href='/favicon.ico' />
       <meta charset='utf-8' />
       <meta name='viewport' content='width=device-width, initial-scale=1' />
-      <meta name='theme-color' content='#537bc4' />
+      <meta name='theme-color' content='#a99260' />
       <meta name='description' content='السيرة النبوية للدكتور على الصلابى' />
       <meta name='robots' content='index,follow' />
       <meta name='googlebot' content='index,follow' />
