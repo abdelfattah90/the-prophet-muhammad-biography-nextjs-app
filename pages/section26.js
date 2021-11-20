@@ -32,7 +32,7 @@ export default function Section26() {
 
           <hr />
 
-          <p className='tilteC1'>كيف حج النبي صلى الله عليه وسلم</p>
+          <p className='titleS1'>كيف حج النبي صلى الله عليه وسلم</p>
 
           <p>
             عزم رسول الله صلى الله عليه وسلم على الحج وأعلم الناس أنه حاج
@@ -257,7 +257,7 @@ export default function Section26() {
 
           <hr />
 
-          <p className='tilteC3'>
+          <p className='titleS3'>
             بعض الأحكام الفقهية المستنبطة من حجة الوداع:
           </p>
 
@@ -291,7 +291,7 @@ export default function Section26() {
 
           <hr />
 
-          <p className='tilteC1'>منهج التيسير لاحرج فيه</p>
+          <p className='titleS1'>منهج التيسير لاحرج فيه</p>
 
           <p>
             قال عبدالله بن عمرو بن العاص رضي الله عنهما: وقف رسول الله صلى الله
@@ -305,7 +305,7 @@ export default function Section26() {
 
           <hr />
 
-          <p className='tilteC1'>فوائد في تسمية أيام الحج</p>
+          <p className='titleS1'>فوائد في تسمية أيام الحج</p>
 
           <p>
             كان يقال لليوم السابع من ذي الحجة يوم الزينة لأنه يُزين فيه البُدن

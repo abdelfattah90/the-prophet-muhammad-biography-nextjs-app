@@ -2,7 +2,8 @@ import HeadComponent from '../components/HeadComponent'
 import Navbar from '../components/Navbar'
 export default function Section12() {
   return (
-    <><HeadComponent title='غدر عَضَل والقارة' />
+    <>
+      <HeadComponent title='غدر عَضَل والقارة' />
       <Navbar title='غدر عَضَل والقارة' />
       <main className='container mainContents'>
         <section className='sectionContents'>
@@ -21,7 +22,7 @@ export default function Section12() {
 
           <hr />
 
-          <p className='tilteC1'>عاصم بن ثابت</p>
+          <p className='titleS1'>عاصم بن ثابت</p>
 
           <p>
             وهكذا بعث الرسول صلى الله عليه وسلم هذه السرية التي تتألف من عشرة من
@@ -62,7 +63,7 @@ export default function Section12() {
 
           <hr />
 
-          <p className='tilteC1'>خبيب بن عدي</p>
+          <p className='titleS1'>خبيب بن عدي</p>
 
           <p>
             أما خبيب فقد اشتراه بنو الحارث بن عامر بن نوفل ليقتلوه بالحارث الذي
@@ -112,7 +113,7 @@ export default function Section12() {
 
           <hr />
 
-          <p className='tilteC3'>دروس وعبر</p>
+          <p className='titleS3'>دروس وعبر</p>
 
           <p>
             وفي الحديث أن للأسير أن يمتنع من قبول الأمان ولايمكن من نفسه ولو قتل

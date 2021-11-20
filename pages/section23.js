@@ -36,7 +36,7 @@ export default function Section23() {
 
           <hr />
 
-          <p className='tilteC1'>ابو سفيان يحاول تلافي حماقة قريش</p>
+          <p className='titleS1'>ابو سفيان يحاول تلافي حماقة قريش</p>
 
           <p>
             بعثت قريش أبا سفيان الى المدينة لتمكين الصلح وإطالة أمده وعندما وصل
@@ -58,7 +58,7 @@ export default function Section23() {
 
           <hr />
 
-          <p className='tilteC1'>كتم أمر الخروج لمكة</p>
+          <p className='titleS1'>كتم أمر الخروج لمكة</p>
 
           <p>
             أخذ النبي صلى الله عليه وسلم بمبدأ السرية المطلقة والكتمان الشديد
@@ -68,7 +68,7 @@ export default function Section23() {
 
           <hr />
 
-          <p className='tilteC1'>بعث العيون لمنع وصول المعلومات الى الأعداء</p>
+          <p className='titleS1'>بعث العيون لمنع وصول المعلومات الى الأعداء</p>
 
           <p>
             بث صلى الله عليه وسلم رجال استخبارات الدولة الاسلامية داخل المدينة
@@ -87,7 +87,7 @@ export default function Section23() {
 
           <hr />
 
-          <p className='tilteC1'>الشروع في الخروج</p>
+          <p className='titleS1'>الشروع في الخروج</p>
 
           <p>
             خرج رسول الله صلى الله عليه وسلم قاصداً مكة في العاشر من رمضان من
@@ -102,7 +102,7 @@ export default function Section23() {
 
           <hr />
 
-          <p className='tilteC1'>النزول بمر الظهران</p>
+          <p className='titleS1'>النزول بمر الظهران</p>
 
           <p>
             وتابع رسول الله صلى الله عليه وسلم سيره حتى أتى مر الظهران، فنزل فيه
@@ -112,7 +112,7 @@ export default function Section23() {
 
           <hr />
 
-          <p className='tilteC1'>دخول المسلمون مكة</p>
+          <p className='titleS1'>دخول المسلمون مكة</p>
 
           <p>
             ودخلت قوات المسلمين مكة من جهاتها الأربعة في آن واحد ولم تلق تلك
@@ -124,7 +124,7 @@ export default function Section23() {
 
           <hr />
 
-          <p className='tilteC3'>تساقط الأصنام</p>
+          <p className='titleS3'>تساقط الأصنام</p>
 
           <p>
             ولما نزل رسول الله صلى الله عليه وسلم بمكة وأطمأن الناس خرج حتى جاء
@@ -150,7 +150,7 @@ export default function Section23() {
 
           <hr />
 
-          <p className='tilteC1'>مفتاح الكعبة وعثمان بن طلحة</p>
+          <p className='titleS1'>مفتاح الكعبة وعثمان بن طلحة</p>
 
           <p>
             وكان مفتاح الكعبة مع عثمان بن طلحة قبل أن يسلم فأراد علي رضي الله
@@ -167,7 +167,7 @@ export default function Section23() {
 
           <hr />
 
-          <p className='tilteC3'>إعلان العفو العام</p>
+          <p className='titleS3'>إعلان العفو العام</p>
 
           <p>
             نال أهل مكة عفواً عاماً رغم أنواع الأذى التي ألحقوها بالرسول صلى
@@ -179,7 +179,7 @@ export default function Section23() {
 
           <hr />
 
-          <p className='tilteC1'>مبايعة النساء وهند بنت عتبة</p>
+          <p className='titleS1'>مبايعة النساء وهند بنت عتبة</p>
 
           <p>
             ولما فرغ رسول الله صلى الله عليه وسلم من بيعة الرجال، بايع النساء
@@ -203,7 +203,7 @@ export default function Section23() {
 
           <hr />
 
-          <p className='tilteC1'>من عفو النبي صلى الله عليه وسلم وحلمه</p>
+          <p className='titleS1'>من عفو النبي صلى الله عليه وسلم وحلمه</p>
 
           <p>
             أراد فضالة بن عمير بن الملوح الليثي قتل النبي صلى الله عليه وسلم وهو
@@ -216,7 +216,7 @@ export default function Section23() {
 
           <hr />
 
-          <p className='tilteC1'>من الأحكام الشرعية التي تؤخذ من الغزوة</p>
+          <p className='titleS1'>من الأحكام الشرعية التي تؤخذ من الغزوة</p>
 
           <p>
             جواز الصوم والفطر في شهر رمضان للمسافر في غير معصية حيث صام الرسول

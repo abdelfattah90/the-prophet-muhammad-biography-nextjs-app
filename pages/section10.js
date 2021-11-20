@@ -2,7 +2,8 @@ import HeadComponent from '../components/HeadComponent'
 import Navbar from '../components/Navbar'
 export default function Section10() {
   return (
-    <><HeadComponent title='غزوة بني قينقاع' />
+    <>
+      <HeadComponent title='غزوة بني قينقاع' />
       <Navbar title='غزوة بني قينقاع' />
       <main className='container mainContents'>
         <section className='sectionContents'>
@@ -13,7 +14,7 @@ export default function Section10() {
             معركة بدر.
           </p>
 
-          <p className='tilteC1'>الأسباب المباشرة للغزو</p>
+          <p className='titleS1'>الأسباب المباشرة للغزو</p>
 
           <p>
             لم يلتزم يهود بني قينقاع بالمعاهدة التي ابرمها الرسول صلى الله عليه
@@ -55,7 +56,7 @@ export default function Section10() {
 
           <hr />
 
-          <p className='tilteC1'>ضرب الحصار عليهم</p>
+          <p className='titleS1'>ضرب الحصار عليهم</p>
 
           <p>
             حين علم اليهود بمقدمه صلى الله عليه وسلم تحصنوا في حصونهم فحاصرهم
@@ -72,7 +73,7 @@ export default function Section10() {
 
           <hr />
 
-          <p className='tilteC1'>مصير يهود بني قينقاع</p>
+          <p className='titleS1'>مصير يهود بني قينقاع</p>
 
           <p>
             حاول ابن سلول زعيم المنافقين أن يحلّ حلفائه من وثاقهم فعندما مرّ
@@ -105,7 +106,7 @@ export default function Section10() {
 
           <hr />
 
-          <p className='tilteC1'>
+          <p className='titleS1'>
             فقه النبي صلى الله عليه وسلم في تعامل مع المنافق ابن سلول
           </p>
 
@@ -130,7 +131,7 @@ export default function Section10() {
 
           <hr />
 
-          <p className='tilteC1'>
+          <p className='titleS1'>
             موالاة بني سلول لليهود وبراءة عبادة بن الصامت
           </p>
 

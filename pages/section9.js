@@ -3,11 +3,10 @@ import Navbar from '../components/Navbar'
 export default function Section9() {
   return (
     <>
-      <HeadComponent title='غزوة بدر' />
       <Navbar title='غزوة بدر' />
       <main className='container mainContents'>
         <section className='sectionContents'>
-          <p className='tilteC1'>قافلة أبوسفيان</p>
+          <p className='titleS1'>قافلة أبوسفيان</p>
 
           <p>
             بلغ المسلمون تحرك قافلة تجارية كبيرة من الشام تحمل أمولاً عظيمة
@@ -26,7 +25,7 @@ export default function Section9() {
 
           <hr />
 
-          <p className='tilteC1'>مشاورة النبي صلى الله عليه وسلم لأصحابه</p>
+          <p className='titleS1'>مشاورة النبي صلى الله عليه وسلم لأصحابه</p>
 
           <p>
             لما بلغ النبي صلى الله عليه وسلم نجاة القافلة وإصرار زعماء مكة على
@@ -47,7 +46,7 @@ export default function Section9() {
 
           <hr />
 
-          <p className='tilteC3'>كلمة سعد بن معاذ</p>
+          <p className='titleS3'>كلمة سعد بن معاذ</p>
 
           <p>
             وبعد ذلك عاد رسول الله صلى الله عليه وسلم فقال: أشيروا عليَّ أيها
@@ -71,7 +70,7 @@ export default function Section9() {
 
           <hr />
 
-          <p className='tilteC1'>مشورة الحباب بن المنذر</p>
+          <p className='titleS1'>مشورة الحباب بن المنذر</p>
 
           <p>
             بعد أن جمع صلى الله عليه وسلم معلومات دقيقة عن قوات قريش سار مسرعاً
@@ -93,7 +92,7 @@ export default function Section9() {
 
           <hr />
 
-          <p className='tilteC1'>الوصف القرآني لارض المعركة</p>
+          <p className='titleS1'>الوصف القرآني لارض المعركة</p>
 
           <p>
             قال تعالى: إِذْ أَنْتُمْ بِالْعُدْوَةِ الدُّنْيَا وَهُمْ
@@ -115,7 +114,7 @@ export default function Section9() {
 
           <hr />
 
-          <p className='tilteC3'>ومارميت إذ رميت ولكن الله رمى</p>
+          <p className='titleS3'>ومارميت إذ رميت ولكن الله رمى</p>
 
           <p>
             أخذ رسول صلى الله عليه وسلم قبضة من التراب وحصب بها وجوه المشركين،
@@ -133,7 +132,7 @@ export default function Section9() {
 
           <hr />
 
-          <p className='tilteC3'>إمداد الله للمسلمين بالملائكة</p>
+          <p className='titleS3'>إمداد الله للمسلمين بالملائكة</p>
 
           <p>
             قال تعالى: وَلَقَدْ نَصَرَكُمُ اللَّهُ بِبَدْرٍ وَأَنْتُمْ أَذِلَّةٌ
@@ -149,14 +148,9 @@ export default function Section9() {
 
           <hr />
 
-          <p className='tilteC1'>مناداة رسول صلى الله عليه وسلم لقتلى قريش</p>
-
-          <a
-            className='titleLink'
-            href='../seirafull/section8c.html#killingTyrants'
-          >
-            <p>مصارع الطغاة المتجبرين وتشفي المستضعفين</p>
-          </a>
+          <p className='titleS1'>
+            مصارع الطغاة ومناداة رسول صلى الله عليه وسلم لقتلى قريش
+          </p>
 
           <p>
             انتهت المعركة ثم أمر رسول صلى الله عليه وسلم فسُحِبوا إلى قليب من
@@ -187,7 +181,7 @@ export default function Section9() {
 
           <hr />
 
-          <p className='tilteC1'>من مشاهد العظمة</p>
+          <p className='titleS1'>من مشاهد العظمة</p>
 
           <p>
             استشهاد حارثة بن سراقة: عن أنس رضي الله عنه قال: أصيب حارثة يوم بدر
@@ -199,7 +193,7 @@ export default function Section9() {
 
           <hr />
 
-          <p className='tilteC2'>يوم الفرقان</p>
+          <p className='titleS2'>يوم الفرقان</p>
 
           <p>
             قال تعالى: وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ

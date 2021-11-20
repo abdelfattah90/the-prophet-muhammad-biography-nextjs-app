@@ -13,7 +13,7 @@ export default function Section15() {
             الخندق سنة أربع، وصلى فيها رسول الله صلى الله عليه وسلم صلاة الخوف.
           </p>
 
-          <p className='tilteC1'>سبب الغزوة</p>
+          <p className='titleS1'>سبب الغزوة</p>
 
           <p>
             ان ماظهر من الغدر لدى كثير من قبائل نجد بالمسلمين، ذلك الغدر الذي
@@ -39,7 +39,7 @@ export default function Section15() {
 
           <hr />
 
-          <p className='tilteC1'>سبب التسمية</p>
+          <p className='titleS1'>سبب التسمية</p>
 
           <p>
             وسميت بذات الرقاع لأنهم كانوا يربطون على أرجلهم من الخرق والرقاع
@@ -54,7 +54,7 @@ export default function Section15() {
 
           <hr />
 
-          <p className='tilteC1'>صلاة الخوف</p>
+          <p className='titleS1'>صلاة الخوف</p>
 
           <p>
             أنزل الله تعالى على نبيه صلى الله عليه وسلم صلاة الخوف في هذه الغزوة
@@ -85,7 +85,7 @@ export default function Section15() {
 
           <hr />
 
-          <p className='tilteC1'>حراسة الثغور</p>
+          <p className='titleS1'>حراسة الثغور</p>
 
           <p>
             عندما رجع الجيش الإسلامي من غزوة ذات الرقاع سبوا امرأة من المشركين،
@@ -101,7 +101,7 @@ export default function Section15() {
 
           <hr />
 
-          <p className='tilteC1'>شجاعة الرسول صلى الله عليه وسلم</p>
+          <p className='titleS1'>شجاعة الرسول صلى الله عليه وسلم</p>
 
           <p>
             عندما قفل رسول الله صلى الله عليه وسلم من غزوة ذات الرقاع أدركته
@@ -136,7 +136,7 @@ export default function Section15() {
 
           <hr />
 
-          <p className='tilteC3'>قصة جابر بن عبدالله</p>
+          <p className='titleS3'>قصة جابر بن عبدالله</p>
 
           <p>
             قال جابر بن عبدالله رضي الله عنه: خرجت مع رسول الله صلى الله عليه

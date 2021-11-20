@@ -2,11 +2,12 @@ import HeadComponent from '../components/HeadComponent'
 import Navbar from '../components/Navbar'
 export default function Section14() {
   return (
-    <><HeadComponent title='غزوة بني النضير' />
+    <>
+      <HeadComponent title='غزوة بني النضير' />
       <Navbar title='غزوة بني النضير' />
       <main className='container mainContents'>
         <section className='sectionContents'>
-          <p className='tilteC1'>إجلاء يهود بني النضير</p>
+          <p className='titleS1'>إجلاء يهود بني النضير</p>
 
           <p>
             أصاب يهود المدينة الخوف والرعب طيلة الفترة التي تفصل بين مقتل كعب بن
@@ -21,7 +22,7 @@ export default function Section14() {
 
           <hr />
 
-          <p className='tilteC1'>تاريخ الغزوة</p>
+          <p className='titleS1'>تاريخ الغزوة</p>
 
           <p>
             يرى المحققون من المؤرخين أن غزوة بني النضير كانت بعد أحد في ربيع
@@ -31,7 +32,7 @@ export default function Section14() {
 
           <hr />
 
-          <p className='tilteC1'>أسباب الغزوة</p>
+          <p className='titleS1'>أسباب الغزوة</p>
 
           <p>
             نقض بنو النضير عهودهم التي تحتم علهيم ألا يؤوا عدواً للمسلمين ولم
@@ -44,7 +45,7 @@ export default function Section14() {
 
           <hr />
 
-          <p className='tilteC1'>محاولة اغتيال النبي صلى الله عليه وسلم</p>
+          <p className='titleS1'>محاولة اغتيال النبي صلى الله عليه وسلم</p>
 
           <p>
             خرج النبي صلى الله عليه وسلم في نفر من أصحابه عن طريق قباء إلى ديار
@@ -71,7 +72,7 @@ export default function Section14() {
 
           <hr />
 
-          <p className='tilteC1'>إنذار بني النضير</p>
+          <p className='titleS1'>إنذار بني النضير</p>
 
           <p>
             سجلت معظم كتب السيرة النبوية خبر إنذار النبي صلى الله عليه وسلم لبني
@@ -92,7 +93,7 @@ export default function Section14() {
 
           <hr />
 
-          <p className='tilteC1'>ضرب الحصار وإجلائهم</p>
+          <p className='titleS1'>ضرب الحصار وإجلائهم</p>
 
           <p>
             وانقضت الأيام العشرة ولم يخرجوا من ديارهم فتحركت جيوش المسلمين صوبهم
@@ -127,7 +128,7 @@ export default function Section14() {
 
           <hr />
 
-          <p className='tilteC3'>دروس و عبر من سورة الحشر</p>
+          <p className='titleS3'>دروس و عبر من سورة الحشر</p>
 
           <p>
             تحدث القرآن الكريم عن غزوة بني النضير في سورة كاملة وهي سورة الحشر،
@@ -138,7 +139,7 @@ export default function Section14() {
 
           <hr />
 
-          <p className='tilteC2'>الرعب جند من جند الله</p>
+          <p className='titleS2'>الرعب جند من جند الله</p>
 
           <p>
             قال تعالى: هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ
@@ -164,7 +165,7 @@ export default function Section14() {
 
           <hr />
 
-          <p className='tilteC2'>تخريب ممتلكات الأعداء</p>
+          <p className='titleS2'>تخريب ممتلكات الأعداء</p>
 
           <p>
             لما نزل رسول الله صلى الله عليه وسلم بجيشه وحاصر بني النضير تحصنوا
@@ -177,7 +178,7 @@ export default function Section14() {
 
           <hr />
 
-          <p className='tilteC2'>تطوير السياسة المالية للدولة الإسلامية</p>
+          <p className='titleS2'>تطوير السياسة المالية للدولة الإسلامية</p>
 
           <p>
             بين سبحانه وتعالى حكم الأموال التي أخذها المسلمون من بني النضير بعد
@@ -198,7 +199,7 @@ export default function Section14() {
 
           <hr />
 
-          <p className='tilteC2'>تحريم الخمر</p>
+          <p className='titleS2'>تحريم الخمر</p>
 
           <p>
             حرمت الخمر ليالي حصار بني النضير في ربيع الأول من السنة الرابعة من
@@ -210,7 +211,7 @@ export default function Section14() {
 
           <hr />
 
-          <p className='tilteC2'>لايحيق المكر السئ إلا بأهله</p>
+          <p className='titleS2'>لايحيق المكر السئ إلا بأهله</p>
 
           <p>
             كان مكر اليهود وتآمرهم على حياة الرسول صلى الله عليه وسلم والدولة

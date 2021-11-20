@@ -7,7 +7,7 @@ export default function Section2() {
       <Navbar title='نزول الوحي' />
       <main className='container mainContents'>
         <section className='sectionContents'>
-          <p className='tilteC1'>نزول الوحي على سيد الخلق أجمعين</p>
+          <p className='titleS1'>نزول الوحي على سيد الخلق أجمعين</p>
 
           <p>
             كان عُمر النبي صلى الله عليه وسلم كان قد بلغ الأربعين و يخلو في غار
@@ -28,7 +28,7 @@ export default function Section2() {
             عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ.
           </p>
 
-          <p className='tilteC1'>تصرف خديجة رضى الله عنها مع رسول الله</p>
+          <p className='titleS1'>تصرف خديجة رضى الله عنها مع رسول الله</p>
 
           <p>
             فرجع بها رسول الله صلى الله عليه وسلم يرجف فؤاده فدخل على خديجة بنت
@@ -47,7 +47,7 @@ export default function Section2() {
 
           <hr />
 
-          <p className='tilteC1'>الأمر الرباني بتبليغ الرسالة</p>
+          <p className='titleS1'>الأمر الرباني بتبليغ الرسالة</p>
 
           <p>
             عرف النبي صلى الله عليه وسلم معرفة اليقين أنه أصبح نبياً لله الرحيم
@@ -67,7 +67,7 @@ export default function Section2() {
 
           <hr />
 
-          <p className='tilteC2'>إسلام السيدة خديجة رضي الله عنها</p>
+          <p className='titleS2'>إسلام السيدة خديجة رضي الله عنها</p>
 
           <p>
             كان أول من آمن بالنبي صلى الله عليه وسلم من النساء، بل أول من آمن به
@@ -80,7 +80,7 @@ export default function Section2() {
 
           <hr />
 
-          <p className='tilteC1'>الوضوء والصلاة</p>
+          <p className='titleS1'>الوضوء والصلاة</p>
 
           <p>
             وكان أول شيء فرضه الله من الشرائع بعد الإقرار بالتوحيد إقامة الصلاة،
@@ -97,7 +97,7 @@ export default function Section2() {
 
           <hr />
 
-          <p className='tilteC2'>إسلام علي بن أبي طالب رضي الله عنه</p>
+          <p className='titleS2'>إسلام علي بن أبي طالب رضي الله عنه</p>
 
           <p>
             كان أول من آمن من الصبيان وكانت سنه إذ ذاك عشر سنين على أرجح الأقوال
@@ -109,7 +109,7 @@ export default function Section2() {
 
           <hr />
 
-          <p className='tilteC2'>إسلام أبي بكر الصديق رضي الله عنه</p>
+          <p className='titleS2'>إسلام أبي بكر الصديق رضي الله عنه</p>
 
           <p>
             كان أبو بكر الصديق رضي الله عنه أول من آمن بالنبي صلى الله عليه وسلم
@@ -123,7 +123,7 @@ export default function Section2() {
 
           <hr />
 
-          <p className='tilteC2'>السابقون الأولون</p>
+          <p className='titleS2'>السابقون الأولون</p>
 
           <p>
             إنهم الصفوة الفكرية المثقفة التي تود أن تلقى عنده هذه العلوم وهذا

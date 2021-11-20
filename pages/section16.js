@@ -12,7 +12,7 @@ export default function Section16() {
             بن ربيعة بن حارثة بن عمرو بن عامر ماء السماء.
           </p>
 
-          <p className='tilteC1'>أسباب الغزوة</p>
+          <p className='titleS1'>أسباب الغزوة</p>
 
           <p>
             تأييد هذه القبيلة لقريش واشتراكها معها في معركة أحد ضد المسلمين، ضمن
@@ -38,7 +38,7 @@ export default function Section16() {
 
           <hr />
 
-          <p className='tilteC3'>غزوة مباركة</p>
+          <p className='titleS3'>غزوة مباركة</p>
 
           <p>
             تعتبر غزوة بني بني المريسيع -المصطلق- من الغزوات الفريدة المباركة
@@ -51,7 +51,7 @@ export default function Section16() {
 
           <hr />
 
-          <p className='tilteC1'>المنافقين في هذه الغزوة</p>
+          <p className='titleS1'>المنافقين في هذه الغزوة</p>
 
           <p>
             خرج في غزوة بني المصطلق عدد كبير من المنافقين مع المسلمين وكان يغلب
@@ -71,7 +71,7 @@ export default function Section16() {
 
           <hr />
 
-          <p className='tilteC1'>
+          <p className='titleS1'>
             محاولة المنافقين إثارة الفتنة بين المهاجرين والأنصار
           </p>
 
@@ -100,7 +100,7 @@ export default function Section16() {
 
           <hr />
 
-          <p className='tilteC3'>إن الله قد صدقك يازيد</p>
+          <p className='titleS3'>إن الله قد صدقك يازيد</p>
 
           <p>
             ولنترك الصحابي زيد بن أرقم يحكي خبر اّخر عن المنافقين: كنت في غزاة
@@ -156,9 +156,9 @@ export default function Section16() {
 
           <hr />
 
-          <p className='tilteC3'>دروس وعبر</p>
+          <p className='titleS3'>دروس وعبر</p>
 
-          <p className='tilteC2'>
+          <p className='titleS2'>
             الحفاظ على السمعة السياسية ووحدة الصف الداخلية
           </p>
 
@@ -217,7 +217,7 @@ export default function Section16() {
 
           <hr />
 
-          <p className='tilteC2'>نحسن صحبته مابقي معنا</p>
+          <p className='titleS2'>نحسن صحبته مابقي معنا</p>
 
           <p>
             كان لابن أبي بن سلول ولد مؤمن مخلص يسمى عبدالله بن عبدالله بن أبي بن
@@ -235,7 +235,7 @@ export default function Section16() {
 
           <hr />
 
-          <p className='tilteC3'>
+          <p className='titleS3'>
             توجيه القرآن الكريم للمجتمع الإسلامي في أعقاب غزوة بني المصطلق
           </p>
 

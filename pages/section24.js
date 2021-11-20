@@ -21,7 +21,7 @@ export default function Section24() {
 
           <hr />
 
-          <p className='tilteC1'>أحداث المعركة</p>
+          <p className='titleS1'>أحداث المعركة</p>
 
           <p>
             تحرك المسلمون باتجاه حنين في اليوم الخامس من شوال ووصلوا حنين في
@@ -34,7 +34,7 @@ export default function Section24() {
 
           <hr />
 
-          <p className='tilteC1'>مفاجأة المسلمين بالكمائن</p>
+          <p className='titleS1'>مفاجأة المسلمين بالكمائن</p>
 
           <p>
             بلغ النبي صلى الله عليه وسلم عزم هوازن على حربه فأرسل عبدالله بن أبي
@@ -55,7 +55,7 @@ export default function Section24() {
 
           <hr />
 
-          <p className='tilteC1'>ثبات رسول صلى الله عليه وسلم فى أرض المعركة</p>
+          <p className='titleS1'>ثبات رسول صلى الله عليه وسلم فى أرض المعركة</p>
 
           <p>
             لقد باغت المشركون المسلمين وأمطرهم الأعداء من جميع الجهات، فاضطربت
@@ -105,11 +105,11 @@ export default function Section24() {
 
           <hr />
 
-          <p className='tilteC1'>
+          <p className='titleS1'>
             فقه الرسول صلى الله عليه وسلم في التعامل مع النفوس
           </p>
 
-          <p className='tilteC2'>الاعجاب بالكثرة يحجب نصر الله</p>
+          <p className='titleS2'>الاعجاب بالكثرة يحجب نصر الله</p>
 
           <p>
             الاعجاب بالكثرة حجب عن المسلمين النصر في بداية المعركة وقد عبر
@@ -130,7 +130,7 @@ export default function Section24() {
 
           <hr />
 
-          <p className='tilteC2'>الغنائم وسيلة لتأليف القلوب</p>
+          <p className='titleS2'>الغنائم وسيلة لتأليف القلوب</p>
 
           <p>
             رأى صلى الله عليه وسلم أن يتألف الطلقاء والأعراب بالغنائم تأليفاً
@@ -143,7 +143,7 @@ export default function Section24() {
 
           <hr />
 
-          <p className='tilteC2'>تأثر الأنصار من توزيع الغنائم</p>
+          <p className='titleS2'>تأثر الأنصار من توزيع الغنائم</p>
 
           <p>
             وقد تأثر حدثاء الأنصار من هذا العطاء بحكم طبيعتهم البشرية وترددت
@@ -160,7 +160,7 @@ export default function Section24() {
 
           <hr />
 
-          <p className='tilteC3'>رضينا برسول الله قسماً وحظاً</p>
+          <p className='titleS3'>رضينا برسول الله قسماً وحظاً</p>
 
           <p>
             فقال رسول الله صلى الله عليه وسلم لسعد بن عبادة: اجمع لي قومك في هذه

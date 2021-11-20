@@ -7,7 +7,7 @@ export default function Section22() {
       <Navbar title='غزوة مؤتة' />
       <main className='container mainContents'>
         <section className='sectionContents'>
-          <p className='tilteC1'>مقتل رسول رسول الله صلى الله عليه وسلم</p>
+          <p className='titleS1'>مقتل رسول رسول الله صلى الله عليه وسلم</p>
 
           <p>
             بعد صلح الحديبية أخذ المسلك العدواني على المسلمين يأخذ منحنى أكثر
@@ -19,7 +19,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC1'>اعتداءات الروم</p>
+          <p className='titleS1'>اعتداءات الروم</p>
 
           <p>
             ثم حدث بعد ذلك بما يزيد قليلاً عن العام أن بعث رسول الله سرية بقيادة
@@ -34,7 +34,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC1'>الثأر لمن قُتلوا</p>
+          <p className='titleS1'>الثأر لمن قُتلوا</p>
 
           <p>
             كانت هذه الأحداث المؤلمة وبخاصة مقتل سفير رسول الله الحارث بن عمير
@@ -47,7 +47,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC1'>تجهيز الجيش واختيار القادة</p>
+          <p className='titleS1'>تجهيز الجيش واختيار القادة</p>
 
           <p>
             وفي سنة 8هـ أمر رسول الله صلى الله عليه وسلم المسلمين بالتجهز
@@ -60,7 +60,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC1'>وداع الجيش الاسلامي</p>
+          <p className='titleS1'>وداع الجيش الاسلامي</p>
 
           <p>
             لما تجهز الجيش الاسلامي وأتم استعداده توجه رسول الله صلى الله عليه
@@ -77,7 +77,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC1'>الجيش يصل الى معان</p>
+          <p className='titleS1'>الجيش يصل الى معان</p>
 
           <p>
             لما وصل الجيش الاسلامي الى معان من أرض الشام وهي الآن محافظة من
@@ -90,7 +90,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC1'>عبدالله بن رواحة يحسم الموقف</p>
+          <p className='titleS1'>عبدالله بن رواحة يحسم الموقف</p>
 
           <p>
             قام المسلمون في معان يومين يتشاورون في التصدي لهذا الحشد الضخم فقال
@@ -104,9 +104,9 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC1'>استشهاد الأمراء الثلاثة</p>
+          <p className='titleS1'>استشهاد الأمراء الثلاثة</p>
 
-          <p className='tilteC2'>زيد بن حارثة</p>
+          <p className='titleS2'>زيد بن حارثة</p>
 
           <p>
             اندفع زيد بن حارثة بالناس الى منطقة مؤتة جنوب الكرك يسير حيث آثر
@@ -118,7 +118,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC2'>جعفر بن أبي طالب</p>
+          <p className='titleS2'>جعفر بن أبي طالب</p>
 
           <p>
             ثم أخذ الراية جعفر وانبرى يتصدى لجموع المشركين الصليبيين فكثفوا
@@ -138,7 +138,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC2'>عبدالله بن رواحة</p>
+          <p className='titleS2'>عبدالله بن رواحة</p>
 
           <p>
             بعد استشهاد جعفر استلم الراية عبدالله بن رواحة الأنصاري رضي الله عنه
@@ -169,7 +169,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC1'>المسلمون يختارون خالد بن الوليد قائداً</p>
+          <p className='titleS1'>المسلمون يختارون خالد بن الوليد قائداً</p>
 
           <p>
             ولما استشهد عبدالله بن رواحة رضي الله عنه وسقطت الراية من يده
@@ -184,7 +184,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC1'>خطة خالد بن الوليد</p>
+          <p className='titleS1'>خطة خالد بن الوليد</p>
 
           <p>
             أصبحت الخطة الأساسية لخالد في تلك الساعة العصيبة من القتال أن ينقذ
@@ -198,7 +198,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC2'>تضليل العدو</p>
+          <p className='titleS2'>تضليل العدو</p>
 
           <p>
             لبلوغ هذا الهدف لابد من تضليل العدو بإيهامه أن مدداً قد ورد الى جيش
@@ -212,7 +212,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC2'>تنفيذ الخطة</p>
+          <p className='titleS2'>تنفيذ الخطة</p>
 
           <p>
             بدا للعدو صباحاً أن الوجوه والرايات التي تواجهه جديدة لم يرها من
@@ -240,7 +240,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC1'>معجزة رسول صلى الله عليه وسلم ولأهل المدينة</p>
+          <p className='titleS1'>معجزة رسول صلى الله عليه وسلم ولأهل المدينة</p>
 
           <p>
             ظهرت معجزة للرسول صلى الله عليه وسلم في أمر هذه السرية فقد نعى
@@ -253,7 +253,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC1'>وصول الجيش للمدينة</p>
+          <p className='titleS1'>وصول الجيش للمدينة</p>
 
           <p>
             ولما دنا الجيش من حول المدينة تلقاهم رسول الله صلى الله عليه وسلم

@@ -7,7 +7,7 @@ export default function Section4() {
       <Navbar title='عام الحزن ومحنة الطائف' />
       <main className='container mainContents'>
         <section className='sectionContents'>
-          <p className='tilteC1'>عام الحزن</p>
+          <p className='titleS1'>عام الحزن</p>
 
           <p>
             كانت وفاة أبي طالب بعد مغادرة بني هاشم شعبه وذلك في آخر السنة
@@ -49,7 +49,7 @@ export default function Section4() {
 
           <hr />
 
-          <p className='tilteC1'>رحلة الرسول صلى الله عليه وسلم إلى الطائف</p>
+          <p className='titleS1'>رحلة الرسول صلى الله عليه وسلم إلى الطائف</p>
 
           <p>
             كان النبي صلى الله عليه وسلم يقتدي بالأنبياء والمرسلين الذين سبقوه
@@ -67,7 +67,7 @@ export default function Section4() {
 
           <hr />
 
-          <p className='tilteC1'>
+          <p className='titleS1'>
             لماذا اختار الرسول صلى الله عليه وسلم الطائف؟
           </p>
 
@@ -85,7 +85,7 @@ export default function Section4() {
 
           <hr />
 
-          <p className='tilteC1'>سوء أدبهم مع رسول الله</p>
+          <p className='titleS1'>سوء أدبهم مع رسول الله</p>
 
           <p>
             لما انتهى رسول الله صلى الله عليه وسلم إلى الطائف عمد إلى نفر من
@@ -112,7 +112,7 @@ export default function Section4() {
 
           <hr />
 
-          <p className='tilteC3'>تضرع ودعاء</p>
+          <p className='titleS3'>تضرع ودعاء</p>
 
           <p>
             لم يكتموا خبر مجئ رسول صلى الله عليه وسلم وأغرو سفهاءهم وعبيدهم
@@ -138,7 +138,7 @@ export default function Section4() {
 
           <hr />
 
-          <p className='tilteC3'>الدعاء سلاح المؤمن</p>
+          <p className='titleS3'>الدعاء سلاح المؤمن</p>
 
           <p>
             وإنا في هذا الدعاء عمق توحيد النبي صلى الله عليه وسلم ومبلغ تجرده
@@ -162,7 +162,7 @@ export default function Section4() {
 
           <hr />
 
-          <p className='tilteC1'>إسلام الجن</p>
+          <p className='titleS1'>إسلام الجن</p>
 
           <p>
             لما انصرف النبي صلى الله عليه وسلم من الطائف راجعاً الى مكة حين يئس

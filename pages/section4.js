@@ -7,7 +7,7 @@ export default function Section4() {
       <Navbar title='هجرة الحبشة' />
       <main className='container mainContents'>
         <section className='sectionContents'>
-          <p className='tilteC1'>سنّة الأخذ بالأسباب</p>
+          <p className='titleS1'>سنّة الأخذ بالأسباب</p>
 
           <p>
             الأسباب جمع سبب وهو كل شيء يتوصل به الى غيره وسنّة الأخذ بالأسباب
@@ -38,7 +38,7 @@ export default function Section4() {
 
           <hr />
 
-          <p className='tilteC1'>الهجرة الى الحبشة</p>
+          <p className='titleS1'>الهجرة الى الحبشة</p>
 
           <p>
             قال تعالى: وَالَّذِينَ هَاجَرُوا فِي اللَّهِ مِنْ بَعْدِ مَا
@@ -57,7 +57,7 @@ export default function Section4() {
 
           <hr />
 
-          <p className='tilteC1'>أسباب الهجرة الى الحبشة</p>
+          <p className='titleS1'>أسباب الهجرة الى الحبشة</p>
 
           <p>
             اشتد البلاء على أصحاب رسول الله صلى الله عليه وسلم وجعل الكفار
@@ -72,7 +72,7 @@ export default function Section4() {
 
           <hr />
 
-          <p className='tilteC1'>أرض الحبشة</p>
+          <p className='titleS1'>أرض الحبشة</p>
 
           <p>
             كانت قبائل العرب في تلك الفترة تدين بالولاء والطاعة لقريش وتسمع
@@ -89,7 +89,7 @@ export default function Section4() {
 
           <hr />
 
-          <p className='tilteC1'>سعي قريش في رد المهاجرين</p>
+          <p className='titleS1'>سعي قريش في رد المهاجرين</p>
 
           <p>
             فلما رأت قريش أن أصحاب رسول الله صلى الله عليه وسلم قد آمنوا،
@@ -132,7 +132,7 @@ export default function Section4() {
 
           <hr />
 
-          <p className='tilteC3'>حوار جعفر والنجاشي</p>
+          <p className='titleS3'>حوار جعفر والنجاشي</p>
 
           <p>
             ثم أرسل النجاشي الى أصحاب رسول الله صلى الله عليه وسلم فدعاهم فلما
@@ -221,7 +221,7 @@ export default function Section4() {
 
           <hr />
 
-          <p className='tilteC1'>إسلام النجاشي</p>
+          <p className='titleS1'>إسلام النجاشي</p>
 
           <p>
             أسلم النجاشي وصدق بنبوة النبي صلى الله عليه وسلم وإن كان قد أخفى

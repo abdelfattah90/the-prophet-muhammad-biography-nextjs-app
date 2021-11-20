@@ -9,7 +9,7 @@ export default function Section22() {
         <section className='sectionContents'>
           <p>ذكر ابن اسحاق أنها كانت في المحرم من السنة السابعة للهجرة</p>
 
-          <p className='tilteC1'>وأثابكم فتحا قريباً</p>
+          <p className='titleS1'>وأثابكم فتحا قريباً</p>
 
           <p>
             تفرغ المسلمون بعد صلح الحديبية لتصفية خطر يهود خيبر الذي أصبح يهدد
@@ -28,7 +28,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC1'>حقد اليهود</p>
+          <p className='titleS1'>حقد اليهود</p>
 
           <p>
             لم يُظهر يهود خيبر العداء للمسلمين حتى نزل فيهم زعماء بني النضير
@@ -42,7 +42,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC1'>مسير الجيش الإسلامي الى خيبر</p>
+          <p className='titleS1'>مسير الجيش الإسلامي الى خيبر</p>
 
           <p>
             سار الجيش الى خيبر بروح إيمانية عالية على الرغم من علمهم بمنعة حصون
@@ -53,7 +53,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC1'>معرفة أخبار العدو</p>
+          <p className='titleS1'>معرفة أخبار العدو</p>
 
           <p>
             كان صلى الله عليه وسلم قد بعث عباد بن بشر رضي الله عنه في سرية
@@ -80,7 +80,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC3'>دعاء دخول القرية</p>
+          <p className='titleS3'>دعاء دخول القرية</p>
 
           <p>
             وعندما وصل جيش المسلمين الى مشارف خيبر، قال رسول الله صلى الله عليه
@@ -99,7 +99,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC1'>تساقط حصون خيبر</p>
+          <p className='titleS1'>تساقط حصون خيبر</p>
 
           <p>
             هرب اليهود الى حصونهم وحاصرهم المسلمون، وأخذوا في فتح حصونهم واحداً
@@ -111,7 +111,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC1'>حصن ناعم</p>
+          <p className='titleS1'>حصن ناعم</p>
 
           <p>
             واجه المسلمون مقاومة شديدة وصعوبة كبيرة عند فتح بعض هذه الحصون، منها
@@ -122,7 +122,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC3'>رجل يحبه الله ورسوله</p>
+          <p className='titleS3'>رجل يحبه الله ورسوله</p>
 
           <p>
             عندما جهد الناس فى فتح الحصن قال رسول الله صلى الله عليه وسلم إنه
@@ -155,7 +155,7 @@ export default function Section22() {
 
           <hr />
 
-          <p className='tilteC1'>فرار اليهود وحصارهم</p>
+          <p className='titleS1'>فرار اليهود وحصارهم</p>
 
           <p>
             توجه المسلمون الى حصن الصَّعْب بن مُعاذ بعد فتح حصن ناعم وأبلى حامل
@@ -174,20 +174,7 @@ export default function Section22() {
 
           <hr />
 
-          <a className='titleLink' href='../seirafull/section14.html#safiyya'>
-            <p>زواج رسول الله من صفية بنت حيي بن أخطب</p>
-          </a>
-
-          <a
-            className='titleLink'
-            href='../seirafull/section14.html#poisonedSheep'
-          >
-            <p>الشاة المسمومة</p>
-          </a>
-
-          <hr />
-
-          <p className='tilteC1'>تقسيم الغنائم</p>
+          <p className='titleS1'>تقسيم الغنائم</p>
 
           <p>
             كانت غزوة خيبر من أكثر غزوات الرسول صلى الله عليه وسلم غنيمة، من حيث

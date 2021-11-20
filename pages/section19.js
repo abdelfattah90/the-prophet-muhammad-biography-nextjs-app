@@ -7,7 +7,7 @@ export default function Section19() {
       <Navbar title='ما كان مُحمَّد أبَا أحَدٍ' />
       <main className='container mainContents'>
         <section className='sectionContents'>
-          <p className='tilteC1'>
+          <p className='titleS1'>
             قصة زواج النبي صلى الله عليه وسلم بزينب بنت جحش رضي الله عنها
           </p>
 
@@ -20,7 +20,7 @@ export default function Section19() {
 
           <hr />
 
-          <p className='tilteC1'>زواجها من زيد بن حارثة رضي الله عنه</p>
+          <p className='titleS1'>زواجها من زيد بن حارثة رضي الله عنه</p>
 
           <p>
             أراد الرسول صلى الله عليه وسلم أن يحطم تلك الفوارق الطبقية الموروثة
@@ -58,7 +58,7 @@ export default function Section19() {
 
           <hr />
 
-          <p className='tilteC1'>طلاق زيد لزينب رضي الله عنها</p>
+          <p className='titleS1'>طلاق زيد لزينب رضي الله عنها</p>
 
           <p>
             شاءت حكمة الله تعالى أن لايتوافقا زيد وزينب في زواجهما وأصبحت حياة
@@ -74,7 +74,7 @@ export default function Section19() {
 
           <hr />
 
-          <p className='tilteC3'>
+          <p className='titleS3'>
             الحكمة من زواج رسول الله صلى الله عليه وسلم من زينب
           </p>
 
@@ -109,7 +109,7 @@ export default function Section19() {
 
           <hr />
 
-          <p className='tilteC1'>زواج رسول الله صلى الله عليه وسلم من زينب</p>
+          <p className='titleS1'>زواج رسول الله صلى الله عليه وسلم من زينب</p>
 
           <p>
             لما انقضت عدة زينب قال رسول الله صلى الله عليه وسلم لزيد: اذهب
@@ -130,7 +130,7 @@ export default function Section19() {
 
           <hr />
 
-          <p className='tilteC3'>دروس وعبر</p>
+          <p className='titleS3'>دروس وعبر</p>
 
           <p>
             كان خاطب زينب للنبي صلى الله عليه وسلم هو زوجها الأول زيد بن حارثة
@@ -168,10 +168,6 @@ export default function Section19() {
             بها فعن أنس رضي الله عنه قال: كانت تفخر على أزواج النبي صلى الله
             عليه وسلم تقول: زوجكن أهاليكن وزوجني الله من فوق سبع سماوات.
           </p>
-
-          <a className='titleLink' href='../seirafull/section12.html#hijab'>
-            <p>وليمته صلى الله عليه وسلم ونزول آية الحجاب</p>
-          </a>
         </section>
       </main>
     </>

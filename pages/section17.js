@@ -7,7 +7,7 @@ export default function Section17() {
       <Navbar title='حادثة الإفك' />
       <main className='container mainContents'>
         <section className='sectionContents'>
-          <p className='tilteC1'>
+          <p className='titleS1'>
             محاولة المنافقين الطعن في عرض النبي صلى الله عليه وسلم بالإفتراء على
             عائشة رضي الله عنها
           </p>
@@ -64,7 +64,7 @@ export default function Section17() {
 
           <hr />
 
-          <p className='tilteC1'>انتشار الدعاية بالمدينة</p>
+          <p className='titleS1'>انتشار الدعاية بالمدينة</p>
 
           <p>
             وقدمنا المدينة فاشتكيت حين قدمت شهراً والناس يفيضون في قول أصحاب
@@ -99,7 +99,7 @@ export default function Section17() {
 
           <hr />
 
-          <p className='tilteC1'>
+          <p className='titleS1'>
             استشارة رسول الله صلى الله عليه وسلم بعض أصحابه عند تأخر نزول الوحي
           </p>
 
@@ -125,7 +125,7 @@ export default function Section17() {
 
           <hr />
 
-          <p className='tilteC1'>آثار فتنة الإفك</p>
+          <p className='titleS1'>آثار فتنة الإفك</p>
 
           <p>
             قالت: فقام سعد بن عبادة وهو سيد الخزرج – وكان قبل ذلك رجلاً صالحاً
@@ -144,7 +144,7 @@ export default function Section17() {
 
           <hr />
 
-          <p className='tilteC1'>
+          <p className='titleS1'>
             مفاتحة الرسول صلى الله عليه وسلم لعائشة وجوابها له
           </p>
 
@@ -186,7 +186,7 @@ export default function Section17() {
 
           <hr />
 
-          <p className='tilteC3'>نزول الوحي ببراءة عائشة</p>
+          <p className='titleS3'>نزول الوحي ببراءة عائشة</p>
 
           <p>
             قالت: فوالله ما رام -فراق مجلسه- رسول الله صلى الله عليه وسلم ولاخرج
@@ -220,7 +220,7 @@ export default function Section17() {
 
           <hr />
 
-          <p className='tilteC1'>
+          <p className='titleS1'>
             موقف أبي بكر الصديق ممن تكلم في عائشة رضي الله عنها
           </p>
 
@@ -238,7 +238,7 @@ export default function Section17() {
 
           <hr />
 
-          <p className='tilteC1'>بشرية الرسول صلى الله عليه وسلم</p>
+          <p className='titleS1'>بشرية الرسول صلى الله عليه وسلم</p>
 
           <p>
             جاءت محنة الإفك منطوية على حكمة إلهية استهدفت إبراز شخصية النبي صلى

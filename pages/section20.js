@@ -7,7 +7,7 @@ export default function Section20() {
       <Navbar title='صلح الحديبية' />
       <main className='container mainContents'>
         <section className='sectionContents'>
-          <p className='tilteC1'>الرؤيا</p>
+          <p className='titleS1'>الرؤيا</p>
 
           <p>
             رأى رسول الله صلى الله عليه وسلم رؤيا في منامه -وهو في المدينة- أنه
@@ -17,7 +17,7 @@ export default function Section20() {
 
           <hr />
 
-          <p className='tilteC1'>انتشار خبر الخروج بين قبائل العرب</p>
+          <p className='titleS1'>انتشار خبر الخروج بين قبائل العرب</p>
 
           <p>
             واستنفر صلى الله عليه وسلم أهل البوادي والأعراب ليخرجوا معه، لأنه
@@ -31,7 +31,7 @@ export default function Section20() {
 
           <hr />
 
-          <p className='tilteC1'>الحيطة والحذر</p>
+          <p className='titleS1'>الحيطة والحذر</p>
 
           <p>
             وقد كان صلى الله عليه وسلم على جانب كبير من الحيطة والحذر، وبعث من
@@ -44,7 +44,7 @@ export default function Section20() {
 
           <hr />
 
-          <p className='tilteC1'>وصول النبي صلى الله عليه وسلم بعسفان</p>
+          <p className='titleS1'>وصول النبي صلى الله عليه وسلم بعسفان</p>
 
           <p>
             لما وصل رسول الله صلى الله عليه وسلم بعسفان لقيه بشر بن سفيان الكعبي
@@ -59,7 +59,7 @@ export default function Section20() {
 
           <hr />
 
-          <p className='tilteC1'>
+          <p className='titleS1'>
             الرسول صلى الله عليه وسلم يغير الطريق وينزل بالحديبية
           </p>
 
@@ -74,7 +74,7 @@ export default function Section20() {
 
           <hr />
 
-          <p className='tilteC1'>السفارة بين الرسول صلى الله عليه وسلم وقريش</p>
+          <p className='titleS1'>السفارة بين الرسول صلى الله عليه وسلم وقريش</p>
 
           <p>
             بذل رسول الله صلى الله عليه وسلم مافي وسعه لإفهام قريش أنه لايريد
@@ -84,18 +84,9 @@ export default function Section20() {
             وطمعاً في صد المسلمين عن البيت بالطرق السليمة من جهة ثالثة.
           </p>
 
-          <a
-            className='titleLink'
-            href='../seirafull/section13c.html#negotiation'
-          >
-            <p>
-              السفارات بين رسول الله صلى الله عليه وسلم وبين قريش فى الحديبية
-            </p>
-          </a>
-
           <hr />
 
-          <p className='tilteC1'>إختيار عثمان بن عفان للتفاوض</p>
+          <p className='titleS1'>إختيار عثمان بن عفان للتفاوض</p>
 
           <p>
             أشار عمر بن الخطاب على النبي صلى الله عليه وسلم بعثمان رضي الله عنه،
@@ -106,7 +97,7 @@ export default function Section20() {
 
           <hr />
 
-          <p className='tilteC3'>بيعة الرضوان</p>
+          <p className='titleS3'>بيعة الرضوان</p>
 
           <p>
             بلغ النبي صلى الله عليه وسلم أن عثمان رضي الله عنه قتل فدعا رسول
@@ -135,7 +126,7 @@ export default function Section20() {
 
           <hr />
 
-          <p className='tilteC1'>
+          <p className='titleS1'>
             مفاوضة سهيل بن عمرو لرسول الله صلى الله عليه وسلم
           </p>
 
@@ -148,7 +139,7 @@ export default function Section20() {
 
           <hr />
 
-          <p className='tilteC1'>كتابة المعاهدة</p>
+          <p className='titleS1'>كتابة المعاهدة</p>
 
           <p>
             بعد رجوع عثمان بن عفان رضي الله عنه شرع النبي صلى الله عليه وسلم في
@@ -176,16 +167,9 @@ export default function Section20() {
             تعظيم آلهتهم ونحو ذلك.
           </p>
 
-          <a
-            className='titleLink'
-            href='../seirafull/section13c.html#treatyTerms'
-          >
-            <p>للأطلاع على بنود المعاهدة</p>
-          </a>
-
           <hr />
 
-          <p className='tilteC1'>
+          <p className='titleS1'>
             التحلل من العمرة ومشورة أم سلمة رضي الله عنها
           </p>
 
@@ -199,16 +183,9 @@ export default function Section20() {
             بعضهم يقتل بعضاً غما.
           </p>
 
-          <a
-            className='titleLink'
-            href='../seirafull/section13d.html#hudaibiyaLessons'
-          >
-            <p>دروس فقهية وتربوية من صلح الحديبية</p>
-          </a>
-
           <hr />
 
-          <p className='tilteC3'>العودة إلى المدينة ونزول سورة الفتح</p>
+          <p className='titleS3'>العودة إلى المدينة ونزول سورة الفتح</p>
 
           <p>
             انصرف رسول الله صلى الله عليه وسلم من الحديبية قاصداً المدينة حتى

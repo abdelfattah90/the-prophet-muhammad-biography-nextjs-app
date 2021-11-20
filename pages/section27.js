@@ -28,7 +28,7 @@ export default function Section27() {
 
           <hr />
 
-          <p className='tilteC1'>
+          <p className='titleS1'>
             الآيات التي أشارت إلى وفاته صلى الله عليه وسلم
           </p>
 
@@ -63,7 +63,7 @@ export default function Section27() {
 
           <hr />
 
-          <p className='tilteC1'>
+          <p className='titleS1'>
             الأحاديث التي أشارت إلى وفاته صلى الله عليه وسلم
           </p>
 
@@ -107,7 +107,7 @@ export default function Section27() {
 
           <hr />
 
-          <p className='tilteC1'>أبو بكر يصلي بالمسلمين</p>
+          <p className='titleS1'>أبو بكر يصلي بالمسلمين</p>
 
           <p>
             ولما اشتد المرض بالنبي صلى الله عليه وسلم وحضرت الصلاة، فأذن بلال
@@ -123,7 +123,7 @@ export default function Section27() {
 
           <hr />
 
-          <p className='tilteC1'>الساعات الأخيرة من حياة المصطفى</p>
+          <p className='titleS1'>الساعات الأخيرة من حياة المصطفى</p>
 
           <p>
             كان أبو بكر يصلي بالمسلمين حتى إذا كان يوم الإثنين وهم صفوف في صلاة
@@ -144,7 +144,7 @@ export default function Section27() {
 
           <hr />
 
-          <p className='tilteC3'>في الرفيق الأعلى</p>
+          <p className='titleS3'>في الرفيق الأعلى</p>
 
           <p>
             واشتدت سكرات الموت بالنبي صلى الله عليه وسلم ودخل عليه أسامة بن زيد
@@ -184,7 +184,7 @@ export default function Section27() {
 
           <hr />
 
-          <p className='tilteC1'>هول الفاجعة وموقف أبي بكر منها</p>
+          <p className='titleS1'>هول الفاجعة وموقف أبي بكر منها</p>
 
           <p>
             قال ابن رجب: ولما توفي رسول الله صلى الله عليه وسلم اضطرب المسلمون
@@ -255,7 +255,7 @@ export default function Section27() {
 
           <hr />
 
-          <p className='tilteC1'>بيعة أبي بكر بالخلافة</p>
+          <p className='titleS1'>بيعة أبي بكر بالخلافة</p>
 
           <p>
             وبايع المسلمون أبا بكر بالخلافة في سقيفة بني ساعدة حتى لايجد الشيطان
@@ -267,7 +267,7 @@ export default function Section27() {
 
           <hr />
 
-          <p className='tilteC1'>
+          <p className='titleS1'>
             غُسل رسول الله صلى الله عليه وسلم وكفنه والصلاة عليه
           </p>
 
@@ -293,7 +293,7 @@ export default function Section27() {
 
           <hr />
 
-          <p className='tilteC1'>موقع دفنه وصفة قبره</p>
+          <p className='titleS1'>موقع دفنه وصفة قبره</p>
 
           <p>
             اختلف المسلمون في موقع دفنه فقال بعضهم يدفن عند المنبر وقال آخرون
@@ -321,7 +321,7 @@ export default function Section27() {
 
           <hr />
 
-          <p className='tilteC1'>من باشر دفنه ومتى دفن</p>
+          <p className='titleS1'>من باشر دفنه ومتى دفن</p>
 
           <p>
             وأما الذين باشروا دفنه صلى الله عليه وسلم قال ابن اسحاق: وكان الذين
@@ -363,7 +363,7 @@ export default function Section27() {
 
           <hr />
 
-          <p className='tilteC1'>الخاتمة</p>
+          <p className='titleS1'>الخاتمة</p>
 
           <p>
             وبعد فهذا مايسره الله لي من جمع وترتيب وتحليل تضمنتها فصول هذا

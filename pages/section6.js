@@ -24,7 +24,7 @@ export default function Section6() {
 
           <hr />
 
-          <p className='tilteC1'>الإسراء والمعراج .. ذروة التكريم</p>
+          <p className='titleS1'>الإسراء والمعراج .. ذروة التكريم</p>
 
           <p>
             إن الله عز وجل أراد أن يتيح لرسوله فرصة الاطلاع على المظاهر الكبرى
@@ -41,11 +41,11 @@ export default function Section6() {
           </p>
           <hr />
 
-          <p className='tilteC1'>
+          <p className='titleS1'>
             قصة الإسراء والمعراج كما جاءت في بعض الأحاديث
           </p>
 
-          <p className='tilteC2'>البراق وبيت المقدس</p>
+          <p className='titleS2'>البراق وبيت المقدس</p>
 
           <p>
             عن أنس بن مالك رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم
@@ -67,7 +67,7 @@ export default function Section6() {
             الجارود: هو البراق يا أبا حمزة؟ قال أنس: نعم يضع خطوه عند أقصى طرفه.
           </p>
 
-          <p className='tilteC2'>الصعود إلى السماء</p>
+          <p className='titleS2'>الصعود إلى السماء</p>
 
           <p>
             فحملت عليه فانطلق بي جبريل حتى أتيت السماء الدنيا فاستفتح قيل: من
@@ -143,7 +143,7 @@ export default function Section6() {
 
           <hr />
 
-          <p className='tilteC3'>عند سدرة المنتهى</p>
+          <p className='titleS3'>عند سدرة المنتهى</p>
 
           <p>
             ثم رفعت لي سدرة فإذا نبقها مثل قلال هجر، وإذا ورقها مثل آذان الفيلة،
@@ -159,7 +159,7 @@ export default function Section6() {
 
           <hr />
 
-          <p className='tilteC2'>فرض الصلاة</p>
+          <p className='titleS2'>فرض الصلاة</p>
 
           <p>
             ثم فرضت عليّ الصلاة خمسين صلاة كل يوم فرجعت فممرت على موسى فقال: بما
@@ -178,7 +178,7 @@ export default function Section6() {
 
           <hr />
 
-          <p className='tilteC2'>الرجوع من الرحلة</p>
+          <p className='titleS2'>الرجوع من الرحلة</p>
 
           <p>
             فلما رجع رسول الله صلى الله عليه وسلم من رحلته الميمونة أخبر قومه
@@ -227,7 +227,7 @@ export default function Section6() {
 
           <hr />
 
-          <p className='tilteC3'>دروس وعبر</p>
+          <p className='titleS3'>دروس وعبر</p>
 
           <p>
             إن الرسول صلى الله عليه وسلم كان مُقدماً على مرحلة جديدة مرحلة

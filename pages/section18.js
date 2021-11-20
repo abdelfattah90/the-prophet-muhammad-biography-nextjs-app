@@ -14,7 +14,7 @@ export default function Section18() {
             لتحريضها على حرب المسلمين، ووافقت قريش وغطفان وتابعتهم قبائل أخرى.
           </p>
 
-          <p className='tilteC1'>حفر الخندق</p>
+          <p className='titleS1'>حفر الخندق</p>
 
           <p>
             كان المسلمون على علم بتحركات الأحزاب وأدلى سلمان الفارسي رضي الله
@@ -26,7 +26,7 @@ export default function Section18() {
 
           <hr />
 
-          <p className='tilteC1'>مشاركة رسول الله صلى الله عليه وسلم بالحفر</p>
+          <p className='titleS1'>مشاركة رسول الله صلى الله عليه وسلم بالحفر</p>
 
           <p>
             شارك النبي صلى الله عليه وسلم جنده في العمل المضني فأخذ يعمل بيده
@@ -44,7 +44,7 @@ export default function Section18() {
 
           <hr />
 
-          <p className='tilteC1'>رفع معنويات الجنود</p>
+          <p className='titleS1'>رفع معنويات الجنود</p>
 
           <p>
             لم ينسى النبى صلى الله عليه وسلم في هذا الظرف أن هؤلاء الجند بحاجة
@@ -76,7 +76,7 @@ export default function Section18() {
 
           <hr />
 
-          <p className='tilteC1'>نقض يهود بني قريظة العهد</p>
+          <p className='titleS1'>نقض يهود بني قريظة العهد</p>
 
           <p>
             وسرت الشائعات بين المسلمين بأن قريظة قد نقضت عهدها معهم، وكان الرسول
@@ -89,7 +89,7 @@ export default function Section18() {
 
           <hr />
 
-          <p className='tilteC1'>تشديد الحصار على المسلمين</p>
+          <p className='titleS1'>تشديد الحصار على المسلمين</p>
 
           <p>
             زادت جيوش الأحزاب في تشديد الحصار على المسلمين بعد انضمام بني قريظة
@@ -109,7 +109,7 @@ export default function Section18() {
 
           <hr />
 
-          <p className='tilteC1'>إنسحاب المنافقين</p>
+          <p className='titleS1'>إنسحاب المنافقين</p>
 
           <p>
             أما المنافقون فقد انسحبوا من الجيش وزاد خوفهم حتى قال معتب بن قشير
@@ -132,7 +132,7 @@ export default function Section18() {
 
           <hr />
 
-          <p className='tilteC1'>محاولات اقتحام الخندق وأصابة سعد بن معاذ</p>
+          <p className='titleS1'>محاولات اقتحام الخندق وأصابة سعد بن معاذ</p>
 
           <p>
             وتزايدة محاولات المشركين لاقتحام الخندق، وأصبحت خيل المشركين تطوف
@@ -148,7 +148,7 @@ export default function Section18() {
 
           <hr />
 
-          <p className='tilteC1'>
+          <p className='titleS1'>
             اهتمام الرسول صلى الله عليه وسلم ببث الإشاعات في صفوف الأعداء
           </p>
 
@@ -169,7 +169,7 @@ export default function Section18() {
 
           <hr />
 
-          <p className='tilteC3'>
+          <p className='titleS3'>
             شدة تضرع الرسول صلى الله عليه وسلم ونزول النصر
           </p>
 
@@ -187,7 +187,7 @@ export default function Section18() {
 
           <hr />
 
-          <p className='tilteC1'>الريح</p>
+          <p className='titleS1'>الريح</p>
 
           <p>
             قال القرطبي رحمه الله وكانت هذه الريح معجزة للنبي صلى الله عليه وسلم
@@ -202,7 +202,7 @@ export default function Section18() {
 
           <hr />
 
-          <p className='tilteC1'>مراقبة انصراف الأحزاب وحذيفة بن اليمان</p>
+          <p className='titleS1'>مراقبة انصراف الأحزاب وحذيفة بن اليمان</p>
 
           <p>
             كان رسول الله صلى الله عليه وسلم يتابع أمر الأحزاب وأحب أن يتحرى عن
@@ -224,7 +224,7 @@ export default function Section18() {
 
           <hr />
 
-          <p className='tilteC1'>التخلص من بني قريظة</p>
+          <p className='titleS1'>التخلص من بني قريظة</p>
 
           <p>
             بعد عودة النبي صلى الله عليه وسلم من الخندق ووضعه السلاح أمر الله
@@ -249,7 +249,7 @@ export default function Section18() {
 
           <hr />
 
-          <p className='tilteC1'>الصخرة</p>
+          <p className='titleS1'>الصخرة</p>
 
           <p>
             ومن دلائل النبوة أثناء حفر الخندق أخباره صلى الله عليه وسلم عمار بن
@@ -266,7 +266,7 @@ export default function Section18() {
 
           <hr />
 
-          <p className='tilteC2'>شجاعة صفية عمة الرسول صلى الله عليه وسلم</p>
+          <p className='titleS2'>شجاعة صفية عمة الرسول صلى الله عليه وسلم</p>
 
           <p>
             كان صلى الله عليه وسلم قد وضع النساء والأطفال في حصن فارع وهو حصن
@@ -283,7 +283,7 @@ export default function Section18() {
 
           <hr />
 
-          <p className='tilteC3'>سعد بن معاذ رضي الله عنه</p>
+          <p className='titleS3'>سعد بن معاذ رضي الله عنه</p>
 
           <p>
             استجابة الله تعالى لدعائه عندما قال: اللهم فإن بقي من حرب قريش شيء
@@ -315,7 +315,7 @@ export default function Section18() {
 
           <hr />
 
-          <p className='tilteC2'>إن للقبر ضمة</p>
+          <p className='titleS2'>إن للقبر ضمة</p>
 
           <p>
             ومع كل هذه المآثر والمحاسن والأعمال الجليلة التي قدمها لخدمة دين
@@ -330,7 +330,7 @@ export default function Section18() {
 
           <hr />
 
-          <p className='tilteC1'>من أدب الخلاف</p>
+          <p className='titleS1'>من أدب الخلاف</p>
 
           <p>
             في اختلاف الصحابة في فهم كلام رسول الله صلى الله عليه وسلم : ألا لا

@@ -7,7 +7,7 @@ export default function Section7() {
       <Navbar title='بيعة العقبة' />
       <main className='container mainContents'>
         <section className='sectionContents'>
-          <p className='tilteC1'>
+          <p className='titleS1'>
             الإتصالات الأولى بالأنصار في مواسم الحج والعمرة
           </p>
 
@@ -44,7 +44,7 @@ export default function Section7() {
 
           <hr />
 
-          <p className='tilteC1'>بيعة العقبة الأولى</p>
+          <p className='titleS1'>بيعة العقبة الأولى</p>
 
           <p>
             بعد عام من المقابلة الأولى التي تمت بين الرسول صلى الله عليه وسلم
@@ -78,7 +78,7 @@ export default function Section7() {
 
           <hr />
 
-          <p className='tilteC1'>بيعة العقبة الثانية</p>
+          <p className='titleS1'>بيعة العقبة الثانية</p>
 
           <p>
             ففى رواية الصحابي كعب بن مالك الأنصاري وهو أحد المبايعين في العقبة
@@ -112,7 +112,7 @@ export default function Section7() {
 
           <hr />
 
-          <p className='tilteC1'>إختيار النقباء والانصراف</p>
+          <p className='titleS1'>إختيار النقباء والانصراف</p>
 
           <p>
             ثم قال: أخرجوا إليَّ منكم اثني عشر نقيباً ليكونوا على قومهم بما فيهم
@@ -141,7 +141,7 @@ export default function Section7() {
 
           <hr />
 
-          <p className='tilteC3'>دروس وعبر</p>
+          <p className='titleS3'>دروس وعبر</p>
 
           <p>
             ضرب رسول الله صلى الله عليه وسلم السرية التامة على موعد ومكان

@@ -7,7 +7,7 @@ export default function Section3() {
       <Navbar title='الجهر بالدعوة' />
       <main className='container mainContents'>
         <section className='sectionContents'>
-          <p className='tilteC1'>على جبل الصفا</p>
+          <p className='titleS1'>على جبل الصفا</p>
 
           <p>
             صعد النبي صلى الله عليه وسلم على الصفا فجعل ينادي: يابني فهر، يابني
@@ -21,7 +21,7 @@ export default function Section3() {
 
           <hr />
 
-          <p className='tilteC1'>إنكار دعوة الإسلام في العهد المكي</p>
+          <p className='titleS1'>إنكار دعوة الإسلام في العهد المكي</p>
 
           <p>
             كان أكبر طاغوت تحارب به دعوات الرسل والأنبياء عليهم الصلاة والسلام
@@ -43,7 +43,7 @@ export default function Section3() {
 
           <hr />
 
-          <p className='tilteC3'>الابتلاء والتمكين</p>
+          <p className='titleS3'>الابتلاء والتمكين</p>
 
           <p>
             قد جرت سنّة الله تعالى ألا يُمَكن لأمة إلا بعد أن تمر بمراحل اختبار،
@@ -57,7 +57,7 @@ export default function Section3() {
 
           <hr />
 
-          <p className='tilteC1'>محاولة تشويه دعوة الرسول صلى الله عليه وسلم</p>
+          <p className='titleS1'>محاولة تشويه دعوة الرسول صلى الله عليه وسلم</p>
 
           <div>
             <p>
@@ -113,7 +113,7 @@ export default function Section3() {
 
           <hr />
 
-          <p className='tilteC1'>ماتعرض له أصحاب رسول الله من الأذى والتعذيب</p>
+          <p className='titleS1'>ماتعرض له أصحاب رسول الله من الأذى والتعذيب</p>
 
           <p>
             قال عبدالله بن مسعود رضي الله عنه : أول من أظهر الاسلام سبعة، رسول
@@ -127,7 +127,7 @@ export default function Section3() {
 
           <hr />
 
-          <p className='tilteC1'>أبو بكر وإِعْتاق المستضعفين</p>
+          <p className='titleS1'>أبو بكر وإِعْتاق المستضعفين</p>
 
           <p>
             فاوض أبو بكر الصديق رضى الله عنه أمية بن خلف وقال له: ألا تتقي الله

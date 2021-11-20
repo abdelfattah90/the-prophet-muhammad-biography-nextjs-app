@@ -2,11 +2,12 @@ import HeadComponent from '../components/HeadComponent'
 import Navbar from '../components/Navbar'
 export default function Section13() {
   return (
-    <><HeadComponent title='فاجعة بئر معونة' />
+    <>
+      <HeadComponent title='فاجعة بئر معونة' />
       <Navbar title='فاجعة بئر معونة' />
       <main className='container mainContents'>
         <section className='sectionContents'>
-          <p className='tilteC1'>طمع عامر بن الطفيل</p>
+          <p className='titleS1'>طمع عامر بن الطفيل</p>
 
           <p>
             عامر بن الطفيل زعيم من زعماء بني عامر كان متكبراً متغطرساً، طامعاً
@@ -30,7 +31,7 @@ export default function Section13() {
 
           <hr />
 
-          <p className='tilteC1'>بئر معونة</p>
+          <p className='titleS1'>بئر معونة</p>
 
           <p>
             فاتبعهم بقريب من مائة رجل رام فأدركهم ببئر معونة، فقتلوهم إلا عمرو
@@ -53,7 +54,7 @@ export default function Section13() {
 
           <hr />
 
-          <p className='tilteC3'>لابد للدعوة من تضحيات</p>
+          <p className='titleS3'>لابد للدعوة من تضحيات</p>
 
           <p>
             رأينا كيف غدر حلفاء هذيل بأصحاب الرجيع من القُرّاء، الذين أرسلهم
@@ -96,7 +97,7 @@ export default function Section13() {
 
           <hr />
 
-          <p className='tilteC3'>فزت ورب الكعبة</p>
+          <p className='titleS3'>فزت ورب الكعبة</p>
 
           <p>
             عندما اخترق الرمح ظهر حرام بن ملحان رضي الله عنه وخرج من صدره وأصبح
@@ -114,7 +115,7 @@ export default function Section13() {
 
           <hr />
 
-          <p className='tilteC3'>فضل الشهيد</p>
+          <p className='titleS3'>فضل الشهيد</p>
 
           <p>
             وهذا الموقف الخارق للعادة يدعونا للتساؤل: هل يتعرض الشهيد لألم
@@ -147,7 +148,7 @@ export default function Section13() {
 
           <hr />
 
-          <p className='tilteC1'>عدم معرفة النبي صلى الله عليه وسلم للغيب</p>
+          <p className='titleS1'>عدم معرفة النبي صلى الله عليه وسلم للغيب</p>
 
           <p>
             إن حادثتي بئر معونة والرجيع وغيرها تدل على أن الرسول صلى الله عليه
@@ -162,7 +163,7 @@ export default function Section13() {
 
           <hr />
 
-          <p className='tilteC1'>مصير عامر بن الطفيل العامري</p>
+          <p className='titleS1'>مصير عامر بن الطفيل العامري</p>
 
           <p>
             استجاب الله لدعاء نبيه صلى الله عليه وسلم فقد دعا صلى الله عليه وسلم
