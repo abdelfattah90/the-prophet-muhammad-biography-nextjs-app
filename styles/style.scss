@@ -19,7 +19,7 @@
 }
 
 
-$mainColor: #70b29c;
+$mainColor: #128C7E;
 $lightBackground: #e6e6e6;
 $whiteColor: #ffffff;
 $blackColor: #000000;
@@ -199,7 +199,7 @@ a {
 
 
 .okayNav {
-    background-color: #70b29c;/*rgba(255, 255, 255, 0)*/
+    background-color: $mainColor;
     position: fixed;
     width: 100%;
     top: 0;

@@ -29,7 +29,7 @@ body {
 }
 
 .bodyColorMain {
-  background-color: #70b29c;
+  background-color: #128C7E;
 }
 
 a:hover,
@@ -122,7 +122,7 @@ a {
 }
 
 .titlesNum {
-  background-color: #70b29c;
+  background-color: #128C7E;
   color: #ffffff;
   border-radius: 3px;
   padding: 5px;
@@ -132,7 +132,7 @@ a {
 }
 
 .titlesNum2 {
-  background-color: #70b29c;
+  background-color: #128C7E;
   color: #ffffff;
   border-radius: 3px;
   padding: 3px;
@@ -200,8 +200,7 @@ a {
 }
 
 .okayNav {
-  background-color: #70b29c;
-  /*rgba(255, 255, 255, 0)*/
+  background-color: #128C7E;
   position: fixed;
   width: 100%;
   top: 0;
